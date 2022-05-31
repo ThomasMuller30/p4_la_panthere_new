@@ -829,6 +829,38 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+.modifcadretitle{
+    display: flex;
+    justify-content: center;
+}
+
+.modiftitle{
+    width: 630px;
+}
+
+.cadreblockquote{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.blockquote{
+    border-left: none;
+    margin-bottom: 0;
+    padding-bottom: 0
+}
+
+.blockquote p{
+    color: rgb(96, 96, 96);
+    font-style: italic;
+    font-size: 18px;
+}
+
+.auteur{
+    font-size: 18px;
+    font-weight: 200;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
