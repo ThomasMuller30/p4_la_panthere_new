@@ -859,6 +859,7 @@ h4 {
 .auteur{
     font-size: 18px;
     font-weight: 200;
+    color: #000000;
 }
 
 @media (max-width: 1024px) {
