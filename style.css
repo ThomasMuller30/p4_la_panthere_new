@@ -401,6 +401,14 @@ a:hover {
         float: none;
         margin: 10px auto 0;
     }
+
+    .blockquote p{
+        font-size: 16px;
+    }
+
+    .modiftitle{
+        width: inherit;
+    }
 }
 
 .nav > li > .dropdown a {
